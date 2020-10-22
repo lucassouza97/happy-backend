@@ -42,7 +42,7 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 ## Comando para clonar o repositório: 
 ```bash
   #Para clonar o projeto
-  git clone https://github.com/LarisseLima/happy
+  git clone https://github.com/lucassouza97/happy-frontend
 ```
 ## Para rodar a parte do servidor:
 ```bash
